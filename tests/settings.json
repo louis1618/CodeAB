@@ -1,0 +1,30 @@
+{
+    "backup_interval_minutes": 10,
+    "backup_destination_folder": "D:\\.++Moring\\backup_folder",
+    "projects": [
+        {
+            "name": "moring.louis1618.shop",
+            "path": "C:\\Users\\louis\\Documents\\.dev\\moring\\ma\\moring.louis1618.shop",
+            "exclude_folders": [
+                ".gemini",
+                ".git",
+                ".next",
+                ".readonly",
+                ".vercel",
+                "node_modules"
+            ]
+        },
+        {
+            "name": "account.louis1618.shop",
+            "path": "C:\\Users\\louis\\Documents\\.dev\\moring\\ma\\account.louis1618.shop",
+            "exclude_folders": [
+                ".gemini",
+                ".git",
+                ".next",
+                ".readonly",
+                ".vercel",
+                "node_modules"
+            ]
+        }
+    ]
+}

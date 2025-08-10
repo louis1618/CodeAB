@@ -1,0 +1,12 @@
+{
+    "backup_interval_minutes": 20,
+    "backup_destination_folder": "",
+    "projects": [
+        {
+            "name": "",
+            "path": "",
+            "exclude_folders": [
+            ]
+        }
+    ]
+}
